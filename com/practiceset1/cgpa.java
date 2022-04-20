@@ -1,4 +1,4 @@
-package com.codewithhary;
+package com.practiceset1;
 import java.util.*;
 public class cgpa {
     public static void main(String[] args) {
@@ -12,7 +12,7 @@ public class cgpa {
         int c = in.nextInt();
         System.out.println();
 
-        float marks = (((float) a + b + c) / 300 * 100) / 9.5f;
+        float marks =( a+b+c)/30f;
         System.out.print(marks);
     }
 }

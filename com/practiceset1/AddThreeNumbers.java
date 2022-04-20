@@ -1,4 +1,4 @@
-package com.codewithhary;
+package com.practiceset1;
 
 import java.util.Scanner;
 
